@@ -1,0 +1,57 @@
+{
+    "profile": [
+        {
+            "name": "daksh",
+            "age": 18,
+            "gender": "male",
+            "gmail": "schoolpjs3@gmail.com",
+            "password": "1923412@",
+            "tasks": {},
+            "expenses": {},
+            "notes": {},
+            "habits": {}
+        },
+        {
+            "name": "daksh",
+            "age": 18,
+            "gender": "Male",
+            "gmail": "schoolpjs37@gmail.com",
+            "password": "1923412@",
+            "tasks": {},
+            "expenses": {
+                "1": {
+                    "title": "coffe",
+                    "amount": 20.0,
+                    "category": "Food",
+                    "date": "2026-09-12"
+                },
+                "2": {
+                    "title": "coffe",
+                    "amount": 40.0,
+                    "category": "Food",
+                    "date": "2026-09-12"
+                },
+                "3": {
+                    "title": "coffe",
+                    "amount": 40.0,
+                    "category": "Health",
+                    "date": "2026-09-12"
+                }
+            },
+            "notes": {},
+            "habits": {
+                "workout": {
+                    "completed_dates": [
+                        "2026-09-12"
+                    ],
+                    "created_at": "2026-09-12"
+                }
+            },
+            "settings": {
+                "theme": "dark",
+                "notifications": false
+            },
+            "created_at": "2026-09-12 21:19:49"
+        }
+    ]
+}
